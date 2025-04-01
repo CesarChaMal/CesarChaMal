@@ -11,7 +11,7 @@
 🧠 **Profile Summary**  
 Accomplished Software Professional with 15+ years of experience in full-stack Java development, cloud solutions, DevOps automation, and scalable architecture. Proven leadership across major enterprises (BMW, Credit Suisse, HP, etc.), always blending innovation, security, and performance optimization.
 
-🌍 Based in **Krakow, Poland** | Speaks Spanish 🇲🇽, English 🇬🇧, Polish 🇵🇱, Portuguese 🇧🇷
+🌍 Based in **Wroclaw, Poland** | Speaks Spanish 🇲🇽, English 🇬🇧, Polish 🇵🇱, Portuguese 🇧🇷
 
 ---
 
