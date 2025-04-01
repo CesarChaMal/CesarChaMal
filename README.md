@@ -19,7 +19,7 @@ Accomplished Software Professional with 17+ years of experience in full-stack Ja
 
 - 💡 Building AI-enhanced apps using **LangChain**, **Ollama**, **Hugging Face**, and **LLMs**
 - 🔧 Automating cloud and infrastructure with **Terraform**, **Ansible**, and **Docker**
-- 🕹️ Exploring game dev with **Unity** and **Unreal Engine**
+- 🕹️ Exploring game dev with **Corona**, *Unity** and **Unreal Engine**
 - 🧑‍🏫 Mentoring developers and leading architectural decisions
 
 ---
