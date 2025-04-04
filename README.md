@@ -46,13 +46,15 @@ Apache, Tomcat, WebSphere, Git, SVN, ElasticSearch, Kafka, ActiveMQ, OpenMQ
 
 ## 📚 Certifications
 
-- ✅ Advanced Architecting on AWS  
-- ✅ Architecting on AWS  
-- ✅ Software Architect Training Program  
-- ✅ Java Memory Management  
+- ✅ Architecting on AWS  📄 [Certificate (PDF)](https://my-personal-bucket-cesch.s3.eu-central-1.amazonaws.com/Architecting+on+AWS+-+Cesar+Francisco+Chavez+Maldonado.pdf)
+- ✅ Advanced Architecting on AWS  📄 [Certificate (PDF)](https://my-personal-bucket-cesch.s3.eu-central-1.amazonaws.com/Advanced+Architecting+on+AWS++-+Cesar+Francisco+Chavez+Maldonado.pdf)
+- ✅ Software Architect Training Program  📄 [Certificate (PDF)](https://my-personal-bucket-cesch.s3.eu-central-1.amazonaws.com/Cesar+Francisco+Chavez+Maldonado.pdf)
+- ✅ Java Memory Management 
 - ✅ Software Architecture Fundamentals (Soft & People Skills)
 
-📄 [View Full CV (PDF)](https://my-personal-bucket-cesch.s3.eu-central-1.amazonaws.com/Cesar+Francisco+Chavez+Maldonado.pdf)
+📄 [View Full CV (PDF)](https://my-personal-bucket-cesch.s3.eu-central-1.amazonaws.com/Cesar-Chavez-FlowCV-Resume-20250401+(1).pdf)
+
+
 
 ---
 
