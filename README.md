@@ -53,7 +53,7 @@ Apache, Tomcat, WebSphere, Git, SVN, ElasticSearch, Kafka, ActiveMQ, OpenMQ
 - ✅ Java Memory Management 
 - ✅ Software Architecture Fundamentals (Soft & People Skills)
 
-📄 [View Full CV (PDF)](https://my-personal-bucket-cesch.s3.eu-central-1.amazonaws.com/Cesar-Chavez-FlowCV-Resume-20250401+(1).pdf)
+📄 [View Full CV (PDF)](https://my-personal-bucket-cesch.s3.eu-central-1.amazonaws.com/Cesar-Chavez-Resume.pdf)
 
 
 
