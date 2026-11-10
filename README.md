@@ -12,7 +12,7 @@
 Hi, my name is Cesar Chavez.
 I'm a Senior Java Developer, Full-Stack Developer, and Solution Architect with hands-on experience in DevOps and AI technologies. I also have some experience in QA automation.
 I have more than 19 years of experience building enterprise applications across industries such as finance, automotive, cloud platforms, and online gaming.
-Throughout my career, I have gained experience in full-stack Java development, cloud solutions, DevOps automation, and scalable software architecture. I have also held technical leadership and architecture roles in major international enterprises (TCS, BMW, Volvo, Credit Suisse, HP, HPE, ATOS/Worldline), consistently combining innovation, security, and performance optimization.
+Throughout my career, I have gained experience in full-stack Java development, cloud solutions, DevOps automation, and scalable software architecture. I have also held technical leadership and architecture roles in major international enterprises (TCS, USAA, BMW, Volvo, Credit Suisse, HP, HPE, ATOS/Worldline), consistently combining innovation, security, and performance optimization.
 My technical background includes Java, Spring Boot, microservices, AWS, Terraform, Angular, React, Docker, Kubernetes, Node.js, C#, PHP, Python, and, more recently, AI technologies and large language model solutions.
 
 🌍 Based in **Wroclaw, Poland** | Speaks Spanish 🇲🇽, English 🇬🇧, Polish 🇵🇱, Portuguese 🇧🇷
