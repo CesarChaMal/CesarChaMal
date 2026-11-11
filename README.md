@@ -71,19 +71,19 @@ Kafka, ActiveMQ, Elasticsearch, Liquibase, JHipster, Gradle, Maven, MapStruct, L
 Multi-brand iGaming platform on Spring Boot microservices — leading the bonus/rewards engine (cashback, wheel bonuses, free spins, mission progression, wagering enforcement), payment processing (Zimpler integration, deposit/withdrawal controls), game integration services and player lifecycle. MariaDB, Kafka, Redis, Liquibase, Docker; Next.js on the frontend.
 
 **☁️ Digitech Services** – Freelance Solution Architect / AI Engineer *(Aug 2022 – Present)*  
-AI assistants & LLM apps (LangChain, Ollama, Hugging Face Transformers), cloud-native full-stack builds, large-scale test automation (Playwright, Appium, Sauce Labs, Allure), and AI training/QA with BrainTrust–Toloka.
+Freelance full-stack, cloud and AI work. VirtualAssistLab virtual assistant: LLM/NLP in Python with Keras, TensorFlow, PyTorch and Hugging Face Transformers, orchestrated and served with LangChain and Ollama. Automation engineer on a large-scale web/mobile test-automation and CI project (Playwright, Appium, Sauce Labs, X-Ray, Allure) that improved coverage and sped up regression cycles; AI trainer/QA coder with BrainTrust–Toloka. Also Java, Node.js, Angular, React, Ionic, Scala, Terraform and AWS (EC2, S3, RDS).
 
 **🧩 BMW (via Reply)** – Senior Java Developer *(Dec 2022 – Sep 2023)*  
-Enhanced security with Spring JWT/SSO/SAML/OAuth2, fixed certificate infrastructure, refactored and optimized Java 11/AngularJS apps.
+GWM Neu Wholesale and Guarantee modules: built and improved features, refactored the codebase for clarity and maintainability, and kept deployments smooth. Led the team through the fix of a critical certificate-issuance problem, hardened security with Spring JWT, SSO, SAML and OAuth2, and wrote support guides and scripts for specific issues. Java 11, Spring Boot, Oracle, AngularJS.
 
 **🏛️ ATOS / Worldline** – Tech Lead / Solution Software Architect *(Feb 2020 – Nov 2022)*  
-Designed microservices, microfrontends and hexagonal architectures with serverless deployment on AWS (ALB, CloudFront, S3); automated infrastructure with Terraform/Ansible/Packer; led RPA (UiPath) & CI/CD.
+Admiral: designed microservices, microfrontends and hexagonal architectures with a serverless deployment on AWS (ALB, CloudFront, S3), led architecture decisions and mentored developers. Forge Portal: led the development of high-throughput data-processing applications, designed multithreaded apps, and automated DevOps on AWS with Terraform, Ansible, Packer and Bash. Also UiPath RPA solutions and Spring JWT/SSO/SAML security; Java 11, Spring Boot, MySQL, JHipster, Angular 9.
 
 **🏎️ Volvo (via IT Kontrakt)** – Senior Java Developer *(Dec 2017 – Nov 2019)*  
-Modernized the Renault RT-DMS legacy platform: Java upgrade, SVN→Git and Oracle→PostgreSQL migrations, refactoring for maintainability and performance.
+Renault RT-DMS dealer management platform: planned and delivered new features and led its modernization — upgrade to the latest Java, refactoring of the legacy codebase for maintainability and performance, and the SVN→Git and Oracle→PostgreSQL migrations. Java, Spring, Oracle, PostgreSQL, Angular 4.
 
-**💳 Credit Suisse (via NATEK)** – Senior Java Developer *(2017)*  
-Core Engineering Integration components: new features and deep refactoring with Java 8, Spring, Groovy and Grails.
+**💳 Credit Suisse (via NATEK)** – Senior Java Developer *(Jul 2017 – Oct 2017)*  
+Core Engineering Integration components team: conceived, planned and delivered new features, and refactored existing components so they ran more smoothly, were ready for new features and worked well together. Java 8, Spring, Oracle, Groovy, Grails.
 
 **🖥️ HP / HPE / DXC (via Dextra Technologies)** – Senior Java Developer / Tech Lead / Solution Software Architect *(Oct 2013 – Jun 2017)*  
 Tech lead on UseIT, a multithreaded platform integrated with other services via endpoints: mentored developers, led a high-speed data-processing app and made it 35% faster with better Java multithreading, and played a key role in the cloud migration and server scaling. Also secure login, Java/web-service and database performance tuning, and new automation web services. Java 8, Spring, SQL Server, Angular 4; Apache on Linux.
