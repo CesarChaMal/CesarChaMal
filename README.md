@@ -85,11 +85,11 @@ Modernized the Renault RT-DMS legacy platform: Java upgrade, SVN→Git and Oracl
 **💳 Credit Suisse (via NATEK)** – Senior Java Developer *(2017)*  
 Core Engineering Integration components: new features and deep refactoring with Java 8, Spring, Groovy and Grails.
 
-**🖥️ HP (via Dextra Technologies)** – Senior Java Developer / Tech Lead / Solution Software Architect *(Oct 2013 – Jun 2017)*  
-Nearly four years delivering for Hewlett Packard in Guadalajara, Mexico, combining hands-on Java development with technical leadership and solution software architecture.
+**🖥️ HP / HPE / DXC (via Dextra Technologies)** – Senior Java Developer / Tech Lead / Solution Software Architect *(Oct 2013 – Jun 2017)*  
+Tech lead on UseIT, a multithreaded platform integrated with other services via endpoints: mentored developers, led a high-speed data-processing app and made it 35% faster with better Java multithreading, and played a key role in the cloud migration and server scaling. Also secure login, Java/web-service and database performance tuning, and new automation web services. Java 8, Spring, SQL Server, Angular 4; Apache on Linux.
 
 **🌐 Tata Consultancy Services (TCS)** – Java Developer *(Sep 2011 – Oct 2013)*  
-Two years of Java development at TCS in Guadalajara, Mexico.
+Clients USAA, Citi Bank and General Electric. Built and maintained USAA's Special Relationships web applications from requirements through design and testing (Struts, Spring ORM, Hibernate, design patterns), deployed on WebSphere; developed Citi Bank Teradata Reporters modules (JavaScript, JSP, AJAX); proposed and planned improvements for GE's GECap Touchless Ph4 project.
 
 ---
 
