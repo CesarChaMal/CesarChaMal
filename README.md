@@ -68,7 +68,7 @@ Kafka, ActiveMQ, Elasticsearch, Liquibase, JHipster, Gradle, Maven, MapStruct, L
 ## 🔄 Experience Highlights
 
 **🎰 Playsmart** – Senior Java Developer *(Oct 2025 – Present)*  
-Multi-brand iGaming platform on Spring Boot microservices — leading the bonus/rewards engine (cashback, wheel bonuses, free spins, mission progression, wagering enforcement), payment processing (Zimpler integration, deposit/withdrawal controls), game integration services and player lifecycle. MariaDB, Kafka, Redis, Liquibase, Docker; Next.js on the frontend.
+Multi-brand iGaming platform on Spring Boot microservices — building features as part of the development team across the bonus/rewards engine (cashback, wheel bonuses, free spins, mission progression, wagering enforcement), payment processing (Zimpler integration, deposit/withdrawal controls), game integration services and player lifecycle. MariaDB, Kafka, Redis, Liquibase, Docker; Next.js on the frontend.
 
 **☁️ Digitech Services** – Freelance Solution Architect / AI Engineer *(Aug 2022 – Present)*  
 Freelance full-stack, cloud and AI work. VirtualAssistLab virtual assistant: LLM/NLP in Python with Keras, TensorFlow, PyTorch and Hugging Face Transformers, orchestrated and served with LangChain and Ollama. Automation engineer on a large-scale web/mobile test-automation and CI project (Playwright, Appium, Sauce Labs, X-Ray, Allure) that improved coverage and sped up regression cycles; AI trainer/QA coder with BrainTrust–Toloka. Also Java, Node.js, Angular, React, Ionic, Scala, Terraform and AWS (EC2, S3, RDS).
