@@ -85,6 +85,12 @@ Modernized the Renault RT-DMS legacy platform: Java upgrade, SVN→Git and Oracl
 **💳 Credit Suisse (via NATEK)** – Senior Java Developer *(2017)*  
 Core Engineering Integration components: new features and deep refactoring with Java 8, Spring, Groovy and Grails.
 
+**🖥️ HP (via Dextra Technologies)** – Senior Java Developer / Tech Lead / Solution Software Architect *(Oct 2013 – Jun 2017)*  
+Nearly four years delivering for Hewlett Packard in Guadalajara, Mexico, combining hands-on Java development with technical leadership and solution software architecture.
+
+**🌐 Tata Consultancy Services (TCS)** – Java Developer *(Sep 2011 – Oct 2013)*  
+Two years of Java development at TCS in Guadalajara, Mexico.
+
 ---
 
 ## 🎓 Education
